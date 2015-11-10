@@ -1,5 +1,4 @@
-#!/usr/bin/env ruby
-# encoding: UTF-8
+require "openbox/pipemenu/version"
 
 require 'nokogiri'
 
@@ -104,3 +103,6 @@ module Openbox
 		end
 	end
 end
+
+
+
